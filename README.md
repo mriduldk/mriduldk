@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mriduldk
-- 👀 I’m interested in Android Development and Machine Learning
-- 🌱 I’m currently learning Integration of ML and Android
-- 💞️ I’m looking to collaborate on Any android project
+- 👀 I’m interested in Android and Web Development
+- 🌱 I’m currently learning Kotlin Multiplatform Mobile(KMM)
+- 💞️ I’m looking to collaborate on any Android and Web Projects
 - 📫 How to reach me : Email: mriduldas0226@gmail.com || mridul.das.9706@gmail.com
 
 <!---
